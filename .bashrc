@@ -1,6 +1,6 @@
 cd /c/xampp/htdocs
 
-#Git
+# Git
 alias gs="git status"
 alias gl="git log --oneline --decorate --graph"
 alias gc="git commit"
@@ -9,6 +9,7 @@ alias gaa="git add ."
 alias gp="git push"
 alias pull="git pull"
 alias clone="git clone"
+alias gco="git checkout"
 
 # Composer
 alias ci="composer install"
