@@ -10,6 +10,7 @@ alias gp="git push"
 alias pull="git pull"
 alias clone="git clone"
 alias gco="git checkout"
+alias gd="git diff"
 
 # Composer
 alias ci="composer install"
