@@ -1,5 +1,3 @@
-cd /c/xampp/htdocs
-
 # Composer
 alias ci="composer install"
 alias cu="composer update"
