@@ -1,0 +1,12 @@
+# For faster editing of files
+alias aliases="vim ~/dotfiles/.aliases"
+alias zshrc="vim ~/dotfiles/.zshrc"
+alias vimrc="vim ~/dotfiles/.vimrc"
+
+# For copying SSH key
+function sshkey() {
+	copyfile ~/.ssh/id_rsa.pub && echo 'SSH Key copied to clipboard'
+}
+
+# Laravel
+alias art="php artisan"
