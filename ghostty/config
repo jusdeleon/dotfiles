@@ -1,0 +1,14 @@
+theme = Nord
+background-opacity = 0.97
+font-family = IBM Plex Mono
+font-size = 14
+window-padding-x = 10
+window-padding-y = 10
+window-padding-balance = true
+adjust-cell-height = 35%
+adjust-cell-width = -7.5%
+cursor-style = block
+cursor-style-blink = true
+shell-integration-features = no-cursor
+mouse-hide-while-typing = true
+auto-update = download
